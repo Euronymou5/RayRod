@@ -17,8 +17,8 @@ ______           ______          _
 
 def menu():
   print(Fore.BLUE + logo)
-  print('[1] Decompile Pyinstaller / Pyarmor Executable File')
-  print('[2] Decompile .pyc file')
+  print('[1] Uncompile Pyinstaller / Pyarmor Executable File')
+  print('[2] Uncompile .pyc file')
   var = int(input('\n>> '))
   if var == 1:
     T = input(f'{Fore.GREEN}\n[~] Enter the directory of the .exe (e.g: /Desktop/app.exe/): ')

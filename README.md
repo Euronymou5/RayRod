@@ -1,5 +1,5 @@
 # RayRod
-**Uncompiler of python executable files created in pyinstaller and pyarmor and decompiler of .pyc files using pyinstxtractor and uncompyle6**
+**Decompiler of python executable files created in pyinstaller and pyarmor and decompiler of .pyc files using pyinstxtractor and uncompyle6**
 
 # Setup
 ```
@@ -11,7 +11,7 @@
 ```
 # We choose one of the options:
 ```
-![image.png](https://github.com/Euronymou5/RayRod/blob/main/images/ray1.png?raw=true)
+![image.png](https://github.com/Euronymou5/RayRod/blob/main/images/ray.png?raw=true)
 
 # Contact
 **Discord: Euronymou5#1234**

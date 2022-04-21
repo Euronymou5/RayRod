@@ -3,6 +3,12 @@
 
 # Setup
 ```
-# We install the requirements of the file requirements.txt:
+# We install the requirements of the file requirements.txt:  pip install -r requirements.txt
 ```
-![image.png](https://github.com/Euronymou5/RayRod/blob/main/images/pip.png?raw=true)
+```
+# We start the tool with the command: python3 main.py
+```
+```
+# We choose one of the options:
+```
+![image.png](https://github.com/Euronymou5/RayRod/blob/main/images/ray.png?raw=true)

@@ -17,8 +17,8 @@ ______           ______          _
 
 def menu():
   print(Fore.BLUE + logo)
-  print('[1] Uncompile Pyinstaller / Pyarmor Executable File')
-  print('[2] Uncompile .pyc file')
+  print('[1] Decompile Pyinstaller / Pyarmor Executable File')
+  print('[2] Decompile .pyc file')
   var = int(input('\n>> '))
   if var == 1:
     T = input(f'{Fore.GREEN}\n[~] Enter the directory of the .exe (e.g: /Desktop/app.exe/): ')
@@ -31,7 +31,7 @@ def menu():
       time.sleep(2)
       menu()
   elif var == 2:
-    T = input(f'{Fore.GREEN}\n[~] Enter the directory of the .exe (e.g: /Desktop/compile.pyc/): ')
+    T = input(f'{Fore.GREEN}\n[~] Enter the directory of the .pyc (e.g: /Desktop/compile.pyc/): ')
     if os.path.exists(T):
       print('')
       os.system(f"uncompyle6 {T}")

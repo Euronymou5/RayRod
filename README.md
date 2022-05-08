@@ -14,4 +14,4 @@
 ![image.png](https://github.com/Euronymou5/RayRod/blob/main/images/ray.png?raw=true)
 
 # Contact
-**Discord: Euronymou5#1234**
+**Discord: Euronymou5#3155**
